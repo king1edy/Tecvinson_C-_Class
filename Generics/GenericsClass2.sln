@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsClass2", "GenericsClass2\GenericsClass2.csproj", "{30CCFD9C-D7A2-449B-BF40-248753EF8869}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsClass2", "GenericsClass2\GenericsClass2.csproj", "{30CCFD9C-D7A2-449B-BF40-248753EF8869}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3CEB4A39-19C5-419C-895F-37D9F9756234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{3CEB4A39-19C5-419C-895F-37D9F9756234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
