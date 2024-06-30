@@ -2,7 +2,7 @@
 
 using System.Runtime.CompilerServices;
 using System.Runtime.Loader;
-using Core;
+using Core.Entities;
 using GenericsClass2;
 
 Console.WriteLine("Hello, World!");
